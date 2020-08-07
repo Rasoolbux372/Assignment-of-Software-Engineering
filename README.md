@@ -1,10 +1,10 @@
 # Assignment-of-Software-Engineering
 
-## Q.No.01
-
- Summary:
+## Q.No.01:
 
 ### Improved Automatic Summarization of Subroutines via Attention to File Context
+
+# summary:
 
 # Arthur : 
 
@@ -32,9 +32,10 @@ However, space limitations prevent us from including a thorough discussion of bo
 
 ## Q.no.02
 
-Summary:
 
 ### JTeC: A Large Collection of Java Test Classes for Test Code Analysis and Processing
+
+# summary:
 
 ## Arthur :
 
@@ -67,7 +68,7 @@ Providing this latter type of information, would enable researchers to have at d
  
  Open Problems and Challenges in Ownership Management 
 
-Summary:
+# summary:
 
 # authurs:
 
