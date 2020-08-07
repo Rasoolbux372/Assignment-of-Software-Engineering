@@ -5,7 +5,7 @@
 ### Sakib Haque , Alexander LeClair , Lingfei Wu , Collin McMillan 
 ## Conference : 
 ### In 17th International Conference on Mining Software Repositories (MSR ’20), October 5–6, 2020, Seoul, Republic of Korea
-## SUMMARY :
+### SUMMARY :
 ### INTRODUCTION : 
 #### One of the most important aspects of software documentation is the generation of short, usually one-sentence, descriptions of the subroutines in the software source code. The task of generating these descriptions has become known as «summarization» of subroutines. Yet while currently a vast majority of summarization is handled manually by a programmer, automatic summarization has a long history of scientific interest and been described as a «holy grail» of SE research. A flurry of recent research has started to make automatic summarization a reality.
 Nearly all of the literature on these AI-based approaches to subroutine summarization is inspired by Neural Machine Translation use an attention mechanism to learn associations between subroutines in the file context to words in the target subroutine’s summary during training. Our idea is novel because existing approaches generally only attend words in the output summary to words in the target subroutine. In our experimental section, we demonstrate that our approach improves existing baselines by providing orthogonal information to help the model provide better predictions for otherwise difficult to understand subroutines.
@@ -17,7 +17,7 @@ described in Section 3.1, is a recent code summarization approach based on AST p
 #### This paper advances the state of the art by demonstrating how file context can be used to improve neural source code summarization. The idea that file context includes important clues for understanding subroutines is well-studied in software engineering and especially program comprehension – it has even been proposed for code summarization . The result is that the model is able to use more words from that context, as in the following examples for maximum reproducibility, number is method ID in the dataset followed by the reference summary, attention visualizations As with all papers, our work carries threats to validity and limitations. For one, we use a quantitative evaluation methodology, which while in line with almost all related work and which enables us to evaluate the approach over tens of thousands of subroutines, may miss nuances that a qualitative human evaluation would catch.
 However, space limitations prevent us from including a thorough discussion of both in a single paper, so we defer a human evaluation for extended work. Another limitation is that we evaluate only against a Java dataset. This dataset is the largest available that follows good practice to avoid biases , but caution is advisable when generalizing the work to other languages.
 
-Q.no.02
+## Q.no.02
 ### JTeC: A Large Collection of Java Test Classes for Test Code Analysis and Processing
 ## Arthur : 
 ### Federico Corò ,  Roberto Verdecchia , Emilio Cruciani , Breno Miranda , Antonia Bertolino 
